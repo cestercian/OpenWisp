@@ -1,3 +1,3 @@
 # OpenWisp
 
-A blog to address daily updates of work Done on GSOC for OpenWISP
+A blog to address daily updates of work Done for GSOC on OpenWISP
